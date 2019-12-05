@@ -2,7 +2,7 @@
 name: New Feature
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: Rate.Effort.Low, Rate.Impact.Low
 assignees: ''
 
 ---
