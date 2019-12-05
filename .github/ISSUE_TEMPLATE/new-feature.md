@@ -7,23 +7,35 @@ assignees: ''
 
 ---
 
-# Is feature  related to a problem? Please describe.
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# Checklist for creating a "new Feature" ticket
+- [ ] Create the title
+- [ ] Fill in as much as you can of the guts of the content.
+- [ ] Set the project to sid-Planning-Board 
+- [ ] Save 
+- [ ] Delete this above section
 
-# Describe the solution you'd like
-A clear and concise description of what you want to happen.
+# Is feature  related to a problem? Please 'splain like I'm five.
 
-# Describe alternatives you've considered
-A clear and concise description of any alternative solutions or features you've considered.
+A_clear_and_concise_description_of_what_the_problem_is__Ex__I'm_always_frustrated_when__
+
+# Describe the Proposed Feature
+
+A_clear_and_description_of_what_this_feature_consists_of_and_what_a_definition_of_done_would_look_like__In_other_words_what's_the_scope_of_this_solution___As_an_example_Redesign_the_UI_is_way_too_loose___Be_specific_enough_everyone_who_reads_this_will_understand_what_exactly_is_proposed_
+
+# Describe alternatives or features you've seen elsewhere
+
+A_clear_and_concise_description_of_any_alternative_solutions_or_features_you_ve_seen_or_that_were_the_source_of_the_idea
+
+# Links to Other products with similar feature
+- See Related: LINK_HERE
+- See Related: LINK_HERE
+- See Related: LINK_HERE
 
 # Helpful Context, Background
 
 any_thing_that_makes_it_easier_to_understand_goes_here
 
-# List Epics (or orphan issues) on the board
-- [ ] 
-- [ ] 
-
-*Don't forget to:*
-- set the project to Sid when you are done
-- Set the labels (if you understand which to set)
+# List any Epics and Issues on the Sid board
+- See Also: ISSUE_HERE
+- See Also: ISSUE_HERE
+- See Also: ISSUE_HERE
