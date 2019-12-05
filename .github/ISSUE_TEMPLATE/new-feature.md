@@ -14,7 +14,7 @@ assignees: ''
 - [ ] Save 
 - [ ] Delete this above section
 
-# Is feature  related to a problem? Please 'splain like I'm five.
+# Is feature  related to a problem?
 
 A_clear_and_concise_description_of_what_the_problem_is__Ex__I'm_always_frustrated_when__
 
