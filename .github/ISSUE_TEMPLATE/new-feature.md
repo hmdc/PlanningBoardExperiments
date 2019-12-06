@@ -12,7 +12,7 @@ assignees: ''
 - [ ] Fill in as much as you can of the guts of the content.
 - [ ] Set the project to sid-Planning-Board 
 - [ ] Save 
-- [ ] Delete this above section
+- [ ] Delete this above section  
 
 # Is feature  related to a problem?
 
